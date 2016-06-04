@@ -6,7 +6,7 @@
 app = angular.module 'store', ['ngRoute', 'ngSanitize', 'ui.bootstrap', 'templates-main', 'ImageZoom']
 
 # Config
-app.value 'siteName', 'Molkea'
+app.value 'siteName', "Don't Sweat It"
 app.value 'publicKey', 'umRG34nxZVGIuCSPfYf8biBSvtABgTR8GMUtflyE'
 
 # Set routes & page definitions
